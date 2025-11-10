@@ -1,0 +1,17 @@
+{
+    "markdown.preview.fontSize": 16,
+    "python.terminal.useEnvFile": true,
+    "windsurfPyright.analysis.useTypingExtensions": true,
+    "debugpy.showPythonInlineValues": true,
+    "python.globalModuleInstallation": true,
+    "python.languageServer": "Pylance",
+    "python.testing.pytestEnabled": true,
+    "python.analysis.autoImportCompletions": true,
+    "python.analysis.completeFunctionParens": true,
+    "python.analysis.inlayHints.callArgumentNames": "all",
+    "python.analysis.inlayHints.functionReturnTypes": true,
+    "python.analysis.inlayHints.pytestParameters": true,
+    "python.analysis.inlayHints.variableTypes": true,
+    "python.analysis.supportAllPythonDocuments": true,
+    "python.analysis.supportDocstringTemplate": true
+}
