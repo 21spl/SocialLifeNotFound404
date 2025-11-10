@@ -1,4 +1,4 @@
-# 🧩 Social Media API — Work in Progress
+# 🧩 Social Life Not Found 404 — Work in Progress
 
 A **FastAPI-based backend** for a social media application designed with scalability, modularity, and clean architecture in mind.
 The project currently implements core features like **user authentication (JWT)**, **secure password hashing**, **CRUD operations for posts**, and a **voting system** where users can upvote or remove their votes on posts.
